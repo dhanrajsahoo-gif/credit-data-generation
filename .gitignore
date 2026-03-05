@@ -45,10 +45,3 @@ unstructured_data/extraction_results.jsonl
 # Large datasets (keep CSVs in datasets/ out of git)
 datasets/*.csv
 datasets/*.parquet
-
-# Generated unstructured data (can be large)
-unstructured_data/linkedin/
-unstructured_data/bank_statements/
-unstructured_data/id_documents/
-unstructured_data/property_docs/
-unstructured_data/credit_reports/
