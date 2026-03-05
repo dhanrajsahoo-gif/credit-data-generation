@@ -45,3 +45,7 @@ unstructured_data/extraction_results.jsonl
 # Large datasets (keep CSVs in datasets/ out of git)
 datasets/*.csv
 datasets/*.parquet
+
+# Archive files
+*.zip
+*.tar.gz
