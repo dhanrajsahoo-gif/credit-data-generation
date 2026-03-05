@@ -1,0 +1,54 @@
+# Environment & secrets
+.env
+.env.*
+*.env
+secrets.json
+credentials.json
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+*.egg
+*.egg-info/
+dist/
+build/
+eggs/
+parts/
+var/
+sdist/
+develop-eggs/
+.installed.cfg
+lib/
+lib64/
+*.so
+.venv/
+venv/
+env/
+ENV/
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+unstructured_data/generation_log.jsonl
+unstructured_data/extraction_results.jsonl
+
+# Large datasets (keep CSVs in datasets/ out of git)
+datasets/*.csv
+datasets/*.parquet
+
+# Generated unstructured data (can be large)
+unstructured_data/linkedin/
+unstructured_data/bank_statements/
+unstructured_data/id_documents/
+unstructured_data/property_docs/
+unstructured_data/credit_reports/

@@ -1,0 +1,15 @@
+numpy==2.2.6
+pandas==2.3.3
+scikit-learn==1.7.2
+matplotlib==3.10.8
+seaborn==0.13.2
+lightgbm==4.6.0
+scipy==1.15.3
+ipykernel==7.2.0
+jupyter==1.1.1
+nbconvert==7.17.0
+xhtml2pdf
+google-genai
+python-dotenv
+Pillow
+sentence-transformers
