@@ -1,0 +1,704 @@
+SK_ID_CURR,field,extracted,ground_truth,type,match,scaled_extracted
+100002,gender_id_document,M,M,categorical,True,
+100002,ext_source_1_credit_report,0.0818,0.0830369673913225,numeric,True,0.0818
+100002,ext_source_2_credit_report,0.2618,0.2629485927471776,numeric,True,0.2618
+100002,ext_source_3_credit_report,0.1382,0.1393757800997895,numeric,True,0.1382
+100002,own_realty_property_doc,Y,Y,categorical,True,
+100002,own_car_property_doc,N,N,categorical,True,
+100002,housing_type_property_doc,House / Apartment,House / apartment,categorical,True,
+100003,gender_id_document,F,F,categorical,True,
+100003,monthly_income_bank_statement,22500.0,270000.0,numeric,True,270000.0
+100003,ext_source_1_credit_report,0.3109090909090909,0.3112673113812225,numeric,True,0.3109090909090909
+100003,ext_source_2_credit_report,0.6218181818181818,0.6222457752555098,numeric,True,0.6218181818181818
+100003,own_realty_property_doc,N,N,categorical,True,
+100003,own_car_property_doc,N,N,categorical,True,
+100003,housing_type_property_doc,House / apartment,House / apartment,categorical,True,
+100004,gender_id_document,M,M,categorical,True,
+100004,monthly_income_bank_statement,5625.0,67500.0,numeric,True,67500.0
+100004,ext_source_2_credit_report,0.5545454545454546,0.5559120833904428,numeric,True,0.5545454545454546
+100004,ext_source_3_credit_report,0.7290909090909091,0.7295666907060153,numeric,True,0.7290909090909091
+100004,own_realty_property_doc,Y,Y,categorical,True,
+100004,own_car_property_doc,Y,Y,categorical,True,
+100004,housing_type_property_doc,House / apartment,House / apartment,categorical,True,
+100006,gender_id_document,F,F,categorical,True,
+100006,monthly_income_bank_statement,0,135000.0,numeric,False,0.0
+100006,ext_source_2_credit_report,0.649,0.6504416904014653,numeric,True,0.649
+100006,own_realty_property_doc,Y,Y,categorical,True,
+100006,own_car_property_doc,N,N,categorical,True,
+100006,housing_type_property_doc,House / Apartment,House / apartment,categorical,True,
+100007,gender_id_document,M,M,categorical,True,
+100007,monthly_income_bank_statement,10125.0,121500.0,numeric,True,121500.0
+100007,ext_source_2_credit_report,0.32,0.3227382869704046,numeric,True,0.32
+100007,own_realty_property_doc,Y,Y,categorical,True,
+100007,own_car_property_doc,N,N,categorical,True,
+100007,housing_type_property_doc,Residential / House,House / apartment,categorical,False,
+100008,gender_id_document,M,M,categorical,True,
+100008,monthly_income_bank_statement,8250.0,99000.0,numeric,True,99000.0
+100008,ext_source_2_credit_report,0.3527272727272727,0.3542247319929012,numeric,True,0.3527272727272727
+100008,ext_source_3_credit_report,0.62,0.6212263380626669,numeric,True,0.62
+100008,own_realty_property_doc,Y,Y,categorical,True,
+100008,own_car_property_doc,N,N,categorical,True,
+100008,housing_type_property_doc,House/Apt,House / apartment,categorical,False,
+100009,gender_id_document,F,F,categorical,True,
+100009,monthly_income_bank_statement,14250,171000.0,numeric,True,171000.0
+100009,ext_source_1_credit_report,0.774545,0.7747614130547695,numeric,True,0.774545
+100009,ext_source_2_credit_report,0.723636,0.7239998516953141,numeric,True,0.723636
+100009,ext_source_3_credit_report,0.490909,0.4920600938649263,numeric,True,0.490909
+100009,own_realty_property_doc,Y,Y,categorical,True,
+100009,own_car_property_doc,Y,Y,categorical,True,
+100009,housing_type_property_doc,House / Apartment,House / apartment,categorical,True,
+100010,gender_id_document,MALE,M,categorical,False,
+100010,monthly_income_bank_statement,30000,360000.0,numeric,True,360000.0
+100010,ext_source_2_credit_report,0.71272727,0.7142792864482229,numeric,True,0.71272727
+100010,ext_source_3_credit_report,0.54,0.5406544504453575,numeric,True,0.54
+100010,own_realty_property_doc,Y,Y,categorical,True,
+100010,own_car_property_doc,Y,Y,categorical,True,
+100010,housing_type_property_doc,House / apartment,House / apartment,categorical,True,
+100011,gender_id_document,F,F,categorical,True,
+100011,monthly_income_bank_statement,9375,112500.0,numeric,True,112500.0
+100011,ext_source_1_credit_report,0.587,0.5873340468730377,numeric,True,0.587
+100011,ext_source_2_credit_report,0.205,0.2057472880073281,numeric,True,0.205
+100011,ext_source_3_credit_report,0.751,0.7517237147741489,numeric,True,0.751
+100011,own_realty_property_doc,Y,Y,categorical,True,
+100011,own_car_property_doc,N,N,categorical,True,
+100011,housing_type_property_doc,House / apartment,House / apartment,categorical,True,
+100012,gender_id_document,M,M,categorical,True,
+100012,monthly_income_bank_statement,11250,135000.0,numeric,True,135000.0
+100012,ext_source_2_credit_report,0.7454545454545455,0.7466436294590924,numeric,True,0.7454545454545455
+100012,own_realty_property_doc,Y,Y,categorical,True,
+100012,housing_type_property_doc,house / apartment,House / apartment,categorical,True,
+100014,gender_id_document,F,F,categorical,True,
+100014,ext_source_1_credit_report,0.3181818181818182,0.3197601716755032,numeric,True,0.3181818181818182
+100014,ext_source_2_credit_report,0.6509090909090909,0.6518623334244781,numeric,True,0.6509090909090909
+100014,ext_source_3_credit_report,0.36363636363636365,0.363945238612397,numeric,True,0.36363636363636365
+100014,own_realty_property_doc,Y,Y,categorical,True,
+100014,own_car_property_doc,N,N,categorical,True,
+100014,housing_type_property_doc,Residential - House / Apartment (Owner),House / apartment,categorical,False,
+100015,gender_id_document,F,F,categorical,True,
+100015,monthly_income_bank_statement,3201.0,38419.155,numeric,True,38412.0
+100015,ext_source_1_credit_report,0.7218181818181818,0.7220444501416448,numeric,True,0.7218181818181818
+100015,ext_source_2_credit_report,0.5545454545454546,0.5551831615131809,numeric,True,0.5545454545454546
+100015,ext_source_3_credit_report,0.6527272727272727,0.6528965519806539,numeric,True,0.6527272727272727
+100015,own_realty_property_doc,Y,Y,categorical,True,
+100015,own_car_property_doc,N,N,categorical,True,
+100015,housing_type_property_doc,House / apartment,House / apartment,categorical,True,
+100016,gender_id_document,F,F,categorical,True,
+100016,ext_source_1_credit_report,0.4636,0.4648311169632833,numeric,True,0.4636
+100016,ext_source_2_credit_report,0.7145,0.7150418188660659,numeric,True,0.7145
+100016,ext_source_3_credit_report,0.1764,0.1766525794312139,numeric,True,0.1764
+100016,own_realty_property_doc,Y,Y,categorical,True,
+100016,own_car_property_doc,N,N,categorical,True,
+100016,housing_type_property_doc,House / apartment,House / apartment,categorical,True,
+100017,gender_id_document,M,M,categorical,True,
+100017,monthly_income_bank_statement,"[18750, 5]",225000.0,numeric,True,225000.0
+100017,ext_source_2_credit_report,0.565,0.5669066132460429,numeric,True,0.565
+100017,ext_source_3_credit_report,0.769,0.7700870700124128,numeric,True,0.769
+100017,own_realty_property_doc,N,N,categorical,True,
+100017,own_car_property_doc,Y,Y,categorical,True,
+100017,housing_type_property_doc,House / apartment,House / apartment,categorical,True,
+100018,gender_id_document,F,F,categorical,True,
+100018,ext_source_1_credit_report,0.7218181818181818,0.7219397686622343,numeric,True,0.7218181818181818
+100018,ext_source_2_credit_report,0.6418181818181818,0.6426562048311103,numeric,True,0.6418181818181818
+100018,own_realty_property_doc,Y,Y,categorical,True,
+100018,own_car_property_doc,N,N,categorical,True,
+100018,housing_type_property_doc,House / apartment,House / apartment,categorical,True,
+100019,gender_id_document,M,M,categorical,True,
+100019,monthly_income_bank_statement,0,157500.0,numeric,False,0.0
+100019,ext_source_1_credit_report,0.1145,0.1156343372622997,numeric,True,0.1145
+100019,ext_source_2_credit_report,0.3455,0.34663398139668,numeric,True,0.3455
+100019,ext_source_3_credit_report,0.6782,0.6785676886853644,numeric,True,0.6782
+100019,own_realty_property_doc,Y,Y,categorical,True,
+100019,own_car_property_doc,Y,Y,categorical,True,
+100019,housing_type_property_doc,Rented apartment,Rented apartment,categorical,True,
+100020,gender_id_document,M,M,categorical,True,
+100020,ext_source_2_credit_report,0.23636363636363636,0.2363778398884225,numeric,True,0.23636363636363636
+100020,ext_source_3_credit_report,0.06181818181818182,0.0621030378372968,numeric,True,0.06181818181818182
+100020,own_realty_property_doc,N,N,categorical,True,
+100020,own_car_property_doc,N,N,categorical,True,
+100020,housing_type_property_doc,House / apartment,House / apartment,categorical,True,
+100021,gender_id_document,F,F,categorical,True,
+100021,ext_source_2_credit_report,0.6818181818181818,0.6835133461914255,numeric,True,0.6818181818181818
+100021,own_realty_property_doc,Y,Y,categorical,True,
+100021,own_car_property_doc,N,N,categorical,True,
+100021,housing_type_property_doc,House / apartment,House / apartment,categorical,True,
+100022,gender_id_document,F,F,categorical,True,
+100022,ext_source_2_credit_report,0.7054545454545454,0.7064284028871654,numeric,True,0.7054545454545454
+100022,ext_source_3_credit_report,0.5563636363636364,0.5567274263630174,numeric,True,0.5563636363636364
+100022,own_realty_property_doc,Y,Y,categorical,True,
+100022,own_car_property_doc,N,N,categorical,True,
+100022,housing_type_property_doc,House / apartment,House / apartment,categorical,True,
+100023,gender_id_document,F,F,categorical,True,
+100023,monthly_income_bank_statement,110996.15,90000.0,numeric,False,1331953.7999999998
+100023,ext_source_2_credit_report,0.5854545454545454,0.5866171400119664,numeric,True,0.5854545454545454
+100023,ext_source_3_credit_report,0.4763636363636364,0.4776491548517548,numeric,True,0.4763636363636364
+100023,own_realty_property_doc,Y,Y,categorical,True,
+100023,own_car_property_doc,N,N,categorical,True,
+100023,housing_type_property_doc,House / apartment,House / apartment,categorical,True,
+100024,gender_id_document,M,M,categorical,True,
+100024,ext_source_1_credit_report,0.565,0.5656548824667073,numeric,True,0.565
+100024,ext_source_2_credit_report,0.113,0.113374512719927,numeric,True,0.113
+100024,own_realty_property_doc,Y,Y,categorical,True,
+100024,own_car_property_doc,Y,Y,categorical,True,
+100024,housing_type_property_doc,House / apartment,House / apartment,categorical,True,
+100025,gender_id_document,F,F,categorical,True,
+100025,ext_source_1_credit_report,0.43636363636363634,0.4377090198475417,numeric,True,0.43636363636363634
+100025,ext_source_2_credit_report,0.23272727272727273,0.2337669575081463,numeric,True,0.23272727272727273
+100025,ext_source_3_credit_report,0.5418181818181819,0.5424451438613613,numeric,True,0.5418181818181819
+100025,own_realty_property_doc,Y,Y,categorical,True,
+100025,own_car_property_doc,Y,Y,categorical,True,
+100025,housing_type_property_doc,House / apartment,House / apartment,categorical,True,
+100026,gender_id_document,F,F,categorical,True,
+100026,ext_source_2_credit_report,0.45636363636363636,0.457142971588935,numeric,True,0.45636363636363636
+100026,ext_source_3_credit_report,0.35818181818181816,0.3589512285783967,numeric,True,0.35818181818181816
+100026,own_realty_property_doc,N,N,categorical,True,
+100026,own_car_property_doc,N,N,categorical,True,
+100026,housing_type_property_doc,Rented Apartment,Rented apartment,categorical,True,
+100027,gender_id_document,F,F,categorical,True,
+100027,ext_source_2_credit_report,0.6236363636363637,0.6243047373592765,numeric,True,0.6236363636363637
+100027,ext_source_3_credit_report,0.6672727272727272,0.6690566947824041,numeric,True,0.6672727272727272
+100027,own_realty_property_doc,Y,Y,categorical,True,
+100027,own_car_property_doc,N,N,categorical,True,
+100027,housing_type_property_doc,House / apartment,House / apartment,categorical,True,
+100029,gender_id_document,M,M,categorical,True,
+100029,ext_source_2_credit_report,0.785,0.7861793090532118,numeric,True,0.785
+100029,ext_source_3_credit_report,0.565,0.5656079814115492,numeric,True,0.565
+100029,own_realty_property_doc,Y,N,categorical,False,
+100029,own_car_property_doc,Y,Y,categorical,True,
+100029,housing_type_property_doc,House / Apartment,House / apartment,categorical,True,
+100030,gender_id_document,F,F,categorical,True,
+100030,ext_source_1_credit_report,0.5618181818181818,0.5619484093041138,numeric,True,0.5618181818181818
+100030,ext_source_2_credit_report,0.6509090909090909,0.6514056365297631,numeric,True,0.6509090909090909
+100030,ext_source_3_credit_report,0.46,0.4614823912998385,numeric,True,0.46
+100030,own_realty_property_doc,Y,Y,categorical,True,
+100030,own_car_property_doc,N,N,categorical,True,
+100030,housing_type_property_doc,House / apartment,House / apartment,categorical,True,
+100031,gender_id_document,F,F,categorical,True,
+100031,monthly_income_bank_statement,9375.0,112500.0,numeric,True,112500.0
+100031,ext_source_2_credit_report,0.5472727272727272,0.5484771599678789,numeric,True,0.5472727272727272
+100031,ext_source_3_credit_report,0.1890909090909091,0.190705947811054,numeric,True,0.1890909090909091
+100031,own_realty_property_doc,Y,Y,categorical,True,
+100031,own_car_property_doc,N,N,categorical,True,
+100031,housing_type_property_doc,House / apartment,House / apartment,categorical,True,
+100032,gender_id_document,M,M,categorical,True,
+100032,ext_source_2_credit_report,0.54,0.5411237022695412,numeric,True,0.54
+100032,ext_source_3_credit_report,0.6581818181818182,0.6594055320683344,numeric,True,0.6581818181818182
+100032,own_realty_property_doc,Y,Y,categorical,True,
+100032,own_car_property_doc,N,N,categorical,True,
+100032,housing_type_property_doc,House / apartment,House / apartment,categorical,True,
+100033,gender_id_document,M,M,categorical,True,
+100033,monthly_income_bank_statement,22500.0,270000.0,numeric,True,270000.0
+100033,ext_source_1_credit_report,0.6,0.6003959050009468,numeric,True,0.6
+100033,ext_source_2_credit_report,0.6836,0.6850109901296888,numeric,True,0.6836
+100033,ext_source_3_credit_report,0.5236,0.524496446363472,numeric,True,0.5236
+100033,own_realty_property_doc,Y,Y,categorical,True,
+100033,own_car_property_doc,Y,Y,categorical,True,
+100033,housing_type_property_doc,House / apartment,House / apartment,categorical,True,
+100034,gender_id_document,M,M,categorical,True,
+100034,monthly_income_bank_statement,7500.0,90000.0,numeric,True,90000.0
+100034,ext_source_1_credit_report,0.2963636363636364,0.2979135090150507,numeric,True,0.2963636363636364
+100034,ext_source_2_credit_report,0.5018181818181818,0.5027790378786304,numeric,True,0.5018181818181818
+100034,own_realty_property_doc,Y,Y,categorical,True,
+100034,own_car_property_doc,N,N,categorical,True,
+100034,housing_type_property_doc,With parents,With parents,categorical,True,
+100035,gender_id_document,F,F,categorical,True,
+100035,ext_source_2_credit_report,0.47818,0.479987342189869,numeric,True,0.47818
+100035,ext_source_3_credit_report,0.40909,0.4101025731788671,numeric,True,0.40909
+100036,gender_id_document,F,F,categorical,True,
+100036,ext_source_1_credit_report,0.2727,0.2744223724911185,numeric,True,0.2727
+100036,ext_source_2_credit_report,0.6273,0.6273004007953609,numeric,True,0.6273
+100036,own_realty_property_doc,Y,Y,categorical,True,
+100036,own_car_property_doc,N,N,categorical,True,
+100036,housing_type_property_doc,House / apartment,House / apartment,categorical,True,
+100037,gender_id_document,F,F,categorical,True,
+100037,monthly_income_bank_statement,7500.0,90000.0,numeric,True,90000.0
+100037,ext_source_2_credit_report,0.5581818181818182,0.5594667916353414,numeric,True,0.5581818181818182
+100037,ext_source_3_credit_report,0.7963636363636364,0.7981372313187245,numeric,True,0.7963636363636364
+100037,own_realty_property_doc,N,N,categorical,True,
+100037,own_car_property_doc,N,N,categorical,True,
+100037,housing_type_property_doc,House / apartment,House / apartment,categorical,True,
+100039,gender_id_document,M,M,categorical,True,
+100039,ext_source_2_credit_report,0.32,0.3217448956617718,numeric,True,0.32
+100039,ext_source_3_credit_report,0.4109090909090909,0.4118485559242397,numeric,True,0.4109090909090909
+100039,own_realty_property_doc,N,N,categorical,True,
+100039,own_car_property_doc,Y,Y,categorical,True,
+100039,housing_type_property_doc,House / apartment,House / apartment,categorical,True,
+100040,gender_id_document,F,F,categorical,True,
+100040,monthly_income_bank_statement,11250.0,135000.0,numeric,True,135000.0
+100040,ext_source_2_credit_report,0.1709,0.1724975081477771,numeric,True,0.1709
+100040,own_realty_property_doc,Y,Y,categorical,True,
+100040,own_car_property_doc,N,N,categorical,True,
+100040,housing_type_property_doc,House / apartment,House / apartment,categorical,True,
+100041,gender_id_document,F,F,categorical,True,
+100041,monthly_income_bank_statement,9375.0,112500.0,numeric,True,112500.0
+100041,ext_source_2_credit_report,0.6618181818181819,0.6631580756296298,numeric,True,0.6618181818181819
+100041,ext_source_3_credit_report,0.6781818181818182,0.6785676886853644,numeric,True,0.6781818181818182
+100041,own_realty_property_doc,Y,N,categorical,False,
+100041,own_car_property_doc,N,N,categorical,True,
+100041,housing_type_property_doc,House / apartment,House / apartment,categorical,True,
+100043,gender_id_document,F,F,categorical,True,
+100043,ext_source_1_credit_report,0.8418181818181818,0.8427634659543568,numeric,True,0.8418181818181818
+100043,ext_source_2_credit_report,0.68,0.6816988025574287,numeric,True,0.68
+100043,ext_source_3_credit_report,0.7527272727272727,0.7544061731797895,numeric,True,0.7527272727272727
+100043,own_realty_property_doc,Y,Y,categorical,True,
+100043,own_car_property_doc,N,N,categorical,True,
+100043,housing_type_property_doc,House / apartment,House / apartment,categorical,True,
+100044,gender_id_document,M,M,categorical,True,
+100044,monthly_income_bank_statement,10125.0,121500.0,numeric,True,121500.0
+100044,ext_source_1_credit_report,0.8036,0.8045861213121414,numeric,True,0.8036
+100044,ext_source_2_credit_report,0.7182,0.7197985370372056,numeric,True,0.7182
+100044,ext_source_3_credit_report,0.7218,0.722392890081304,numeric,True,0.7218
+100044,own_realty_property_doc,Y,Y,categorical,True,
+100044,own_car_property_doc,N,N,categorical,True,
+100044,housing_type_property_doc,House / apartment,House / apartment,categorical,True,
+100045,gender_id_document,F,F,categorical,True,
+100045,monthly_income_bank_statement,8250.0,99000.0,numeric,True,99000.0
+100045,ext_source_2_credit_report,0.649090909090909,0.6507647995068742,numeric,True,0.649090909090909
+100045,ext_source_3_credit_report,0.7509090909090909,0.7517237147741489,numeric,True,0.7509090909090909
+100045,own_realty_property_doc,Y,Y,categorical,True,
+100045,own_car_property_doc,N,N,categorical,True,
+100045,housing_type_property_doc,house / apartment,House / apartment,categorical,True,
+100046,gender_id_document,M,M,categorical,True,
+100046,monthly_income_bank_statement,15000.0,180000.0,numeric,True,180000.0
+100046,ext_source_2_credit_report,0.736,0.7380532835697358,numeric,True,0.736
+100046,ext_source_3_credit_report,0.605,0.6058362647264226,numeric,True,0.605
+100046,own_realty_property_doc,Y,Y,categorical,True,
+100046,own_car_property_doc,Y,Y,categorical,True,
+100046,housing_type_property_doc,Residential (House / apartment),House / apartment,categorical,False,
+100047,gender_id_document,M,M,categorical,True,
+100047,monthly_income_bank_statement,,202500.0,numeric,False,
+100047,ext_source_2_credit_report,0.3054545454545455,0.306840586048305,numeric,True,0.3054545454545455
+100047,ext_source_3_credit_report,0.32,0.3201633668633456,numeric,True,0.32
+100047,own_realty_property_doc,Y,Y,categorical,True,
+100047,own_car_property_doc,N,N,categorical,True,
+100047,housing_type_property_doc,House / apartment,House / apartment,categorical,True,
+100048,gender_id_document,F,F,categorical,True,
+100048,ext_source_2_credit_report,0.03636363636363636,0.0373152355612163,numeric,True,0.03636363636363636
+100048,own_realty_property_doc,Y,Y,categorical,True,
+100048,housing_type_property_doc,Condominium / Townhouse,House / apartment,categorical,False,
+100049,gender_id_document,F,F,categorical,True,
+100049,ext_source_1_credit_report,0.467,0.4682080567974757,numeric,True,0.467
+100049,ext_source_2_credit_report,0.673,0.6742032101473874,numeric,True,0.673
+100049,ext_source_3_credit_report,0.398,0.3996756156233169,numeric,True,0.398
+100049,own_realty_property_doc,N,N,categorical,True,
+100049,own_car_property_doc,N,N,categorical,True,
+100049,housing_type_property_doc,House / apartment,House / apartment,categorical,True,
+100050,gender_id_document,F,F,categorical,True,
+100050,ext_source_2_credit_report,0.7654545454545455,0.7661378050275851,numeric,True,0.7654545454545455
+100050,ext_source_3_credit_report,0.6836363636363636,0.6848276586890367,numeric,True,0.6836363636363636
+100050,own_realty_property_doc,Y,Y,categorical,True,
+100050,own_car_property_doc,N,N,categorical,True,
+100050,housing_type_property_doc,House / apartment,House / apartment,categorical,True,
+100051,gender_id_document,M,M,categorical,True,
+100051,ext_source_2_credit_report,0.6309,0.6315186311742824,numeric,True,0.6309
+100051,own_realty_property_doc,Y,Y,categorical,True,
+100051,housing_type_property_doc,"Residential, Single Family (1 unit)",House / apartment,categorical,False,
+100052,gender_id_document,F,F,categorical,True,
+100052,monthly_income_bank_statement,7500.0,90000.0,numeric,True,90000.0
+100052,ext_source_2_credit_report,0.5345,0.535542260363498,numeric,True,0.5345
+100052,own_realty_property_doc,Y,Y,categorical,True,
+100052,own_car_property_doc,Null,N,categorical,False,
+100052,housing_type_property_doc,Apartment,House / apartment,categorical,False,
+100053,gender_id_document,F,F,categorical,True,
+100053,ext_source_2_credit_report,0.24727272727272728,0.2476647173356162,numeric,True,0.24727272727272728
+100053,ext_source_3_credit_report,0.47454545454545455,0.475849908720221,numeric,True,0.47454545454545455
+100053,own_realty_property_doc,Y,Y,categorical,True,
+100053,own_car_property_doc,N,N,categorical,True,
+100053,housing_type_property_doc,House / apartment,House / apartment,categorical,True,
+100054,gender_id_document,F,F,categorical,True,
+100054,ext_source_2_credit_report,0.0890909090909091,0.0892406534424171,numeric,True,0.0890909090909091
+100054,ext_source_3_credit_report,0.7272727272727273,0.7281412993111438,numeric,True,0.7272727272727273
+100054,own_realty_property_doc,Y,Y,categorical,True,
+100054,own_car_property_doc,N,N,categorical,True,
+100054,housing_type_property_doc,House / apartment,House / apartment,categorical,True,
+100055,gender_id_document,F,F,categorical,True,
+100055,ext_source_1_credit_report,0.7091,0.7104273289168539,numeric,True,0.7091
+100055,ext_source_2_credit_report,0.5891,0.5891866296961207,numeric,True,0.5891
+100055,ext_source_3_credit_report,0.4655,0.4668640059537032,numeric,True,0.4655
+100055,own_realty_property_doc,N,N,categorical,True,
+100055,housing_type_property_doc,Apartment,House / apartment,categorical,False,
+100056,gender_id_document,M,M,categorical,True,
+100056,monthly_income_bank_statement,30000.0,360000.0,numeric,True,360000.0
+100056,ext_source_2_credit_report,0.5236,0.5239340474953537,numeric,True,0.5236
+100056,own_realty_property_doc,Y,Y,categorical,True,
+100056,own_car_property_doc,Y,Y,categorical,True,
+100056,housing_type_property_doc,House / apartment,House / apartment,categorical,True,
+100058,gender_id_document,F,F,categorical,True,
+100058,monthly_income_bank_statement,274500,54000.0,numeric,False,3294000.0
+100058,ext_source_1_credit_report,0.6545,0.6562248044601879,numeric,True,0.6545
+100058,ext_source_2_credit_report,0.4491,0.4508497225560816,numeric,True,0.4491
+100058,ext_source_3_credit_report,0.4782,0.4794489811780563,numeric,True,0.4782
+100058,own_realty_property_doc,Y,Y,categorical,True,
+100058,own_car_property_doc,N,N,categorical,True,
+100058,housing_type_property_doc,House,House / apartment,categorical,False,
+100059,gender_id_document,MALE,M,categorical,False,
+100059,monthly_income_bank_statement,135000,540000.0,numeric,False,1620000.0
+100059,ext_source_1_credit_report,0.3109,0.3115099249880457,numeric,True,0.3109
+100059,ext_source_2_credit_report,0.7127,0.7133545848531052,numeric,True,0.7127
+100059,ext_source_3_credit_report,0.3091,0.3092753558842053,numeric,True,0.3091
+100059,own_realty_property_doc,Y,Y,categorical,True,
+100059,own_car_property_doc,Y,Y,categorical,True,
+100059,housing_type_property_doc,House / apartment,House / apartment,categorical,True,
+100060,gender_id_document,M,M,categorical,True,
+100060,monthly_income_bank_statement,6375.0,76500.0,numeric,True,76500.0
+100060,ext_source_1_credit_report,0.2436,0.2445616325354615,numeric,True,0.2436
+100060,ext_source_2_credit_report,0.7055,0.705947456699447,numeric,True,0.7055
+100060,ext_source_3_credit_report,0.7982,0.7992967832109371,numeric,True,0.7982
+100060,own_realty_property_doc,N,N,categorical,True,
+100060,own_car_property_doc,Y,Y,categorical,True,
+100060,housing_type_property_doc,House / apartment,House / apartment,categorical,True,
+100061,gender_id_document,F,F,categorical,True,
+100061,monthly_income_bank_statement,18750,225000.0,numeric,True,225000.0
+100061,ext_source_1_credit_report,0.189,0.1895957995501827,numeric,True,0.189
+100061,ext_source_2_credit_report,0.702,0.7029791046049891,numeric,True,0.702
+100061,ext_source_3_credit_report,0.7,0.7016957740576931,numeric,True,0.7
+100061,own_realty_property_doc,Y,Y,categorical,True,
+100061,own_car_property_doc,N,N,categorical,True,
+100061,housing_type_property_doc,House / apartment,House / apartment,categorical,True,
+100062,gender_id_document,M,M,categorical,True,
+100062,ext_source_2_credit_report,0.6618181818181819,0.6628649268152181,numeric,True,0.6618181818181819
+100062,ext_source_3_credit_report,0.7363636363636363,0.7380196196295241,numeric,True,0.7363636363636363
+100062,own_realty_property_doc,N,N,categorical,True,
+100062,own_car_property_doc,Y,Y,categorical,True,
+100062,housing_type_property_doc,House / apartment,House / apartment,categorical,True,
+100063,gender_id_document,F,F,categorical,True,
+100063,monthly_income_bank_statement,15000.0,180000.0,numeric,True,180000.0
+100063,ext_source_1_credit_report,0.5527272727272727,0.5527719020519871,numeric,True,0.5527272727272727
+100063,ext_source_2_credit_report,0.6163636363636363,0.6166372926426479,numeric,True,0.6163636363636363
+100063,ext_source_3_credit_report,0.06909090909090909,0.0701088438273582,numeric,True,0.06909090909090909
+100063,own_realty_property_doc,Y,Y,categorical,True,
+100063,own_car_property_doc,N,N,categorical,True,
+100063,housing_type_property_doc,House / apartment,House / apartment,categorical,True,
+100064,gender_id_document,F,F,categorical,True,
+100064,monthly_income_bank_statement,5625.0,67500.0,numeric,True,67500.0
+100064,ext_source_2_credit_report,0.6218,0.6227082733555896,numeric,True,0.6218
+100064,ext_source_3_credit_report,0.1691,0.1694287272664794,numeric,True,0.1691
+100064,housing_type_property_doc,Municipal apartment,Municipal apartment,categorical,True,
+100068,gender_id_document,M,M,categorical,True,
+100068,monthly_income_bank_statement,1172003.94,81000.0,numeric,False,14064047.28
+100068,ext_source_1_credit_report,0.23636363636363636,0.2377197192577024,numeric,True,0.23636363636363636
+100068,ext_source_2_credit_report,0.6090909090909091,0.6091352920795285,numeric,True,0.6090909090909091
+100068,ext_source_3_credit_report,0.5127272727272727,0.5136937663039473,numeric,True,0.5127272727272727
+100068,own_realty_property_doc,Y,Y,categorical,True,
+100068,own_car_property_doc,N,N,categorical,True,
+100068,housing_type_property_doc,House / apartment,House / apartment,categorical,True,
+100069,gender_id_document,M,M,categorical,True,
+100069,monthly_income_bank_statement,,360000.0,numeric,False,
+100069,ext_source_2_credit_report,0.2563636363636364,0.2567370429595146,numeric,True,0.2563636363636364
+100069,ext_source_3_credit_report,0.7072727272727273,0.7076993447402619,numeric,True,0.7072727272727273
+100069,own_realty_property_doc,Y,Y,categorical,True,
+100069,housing_type_property_doc,House / apartment,House / apartment,categorical,True,
+100070,gender_id_document,M,M,categorical,True,
+100070,monthly_income_bank_statement,45000.0,540000.0,numeric,True,540000.0
+100070,ext_source_2_credit_report,0.6527272727272727,0.6535972121081295,numeric,True,0.6527272727272727
+100070,ext_source_3_credit_report,0.3381818181818182,0.3392876999089139,numeric,True,0.3381818181818182
+100071,gender_id_document,F,F,categorical,True,
+100071,ext_source_2_credit_report,0.5690909090909091,0.5706663563799912,numeric,True,0.5690909090909091
+100071,ext_source_3_credit_report,0.6963636363636364,0.6971469077844458,numeric,True,0.6963636363636364
+100071,own_realty_property_doc,Y,Y,categorical,True,
+100071,own_car_property_doc,N,N,categorical,True,
+100071,housing_type_property_doc,House / apartment,House / apartment,categorical,True,
+100072,gender_id_document,M,M,categorical,True,
+100072,monthly_income_bank_statement,359716.5,180000.0,numeric,False,4316598.0
+100072,ext_source_2_credit_report,0.025454545454545455,0.0265407750366898,numeric,True,0.025454545454545455
+100072,ext_source_3_credit_report,0.4345454545454545,0.434733248750173,numeric,True,0.4345454545454545
+100072,own_realty_property_doc,N,N,categorical,True,
+100072,own_car_property_doc,N,N,categorical,True,
+100072,housing_type_property_doc,With parents,With parents,categorical,True,
+100073,gender_id_document,M,M,categorical,True,
+100073,ext_source_2_credit_report,0.7327,0.7330511930996613,numeric,True,0.7327
+100073,ext_source_3_credit_report,0.2327,0.2340151665320674,numeric,True,0.2327
+100073,own_realty_property_doc,Y,Y,categorical,True,
+100073,housing_type_property_doc,House / apartment,House / apartment,categorical,True,
+100075,gender_id_document,F,F,categorical,True,
+100075,monthly_income_bank_statement,9375,112500.0,numeric,True,112500.0
+100075,ext_source_1_credit_report,0.298,0.2996061411205129,numeric,True,0.298
+100075,ext_source_2_credit_report,0.664,0.6645439411246608,numeric,True,0.664
+100075,ext_source_3_credit_report,0.491,0.4920600938649263,numeric,True,0.491
+100075,own_realty_property_doc,Y,N,categorical,False,
+100075,housing_type_property_doc,House / apartment,House / apartment,categorical,True,
+100076,gender_id_document,M,M,categorical,True,
+100076,ext_source_2_credit_report,0.58,0.5848873555356944,numeric,True,0.58
+100076,ext_source_3_credit_report,0.09,0.0950703958413326,numeric,True,0.09
+100076,own_realty_property_doc,Y,N,categorical,False,
+100076,housing_type_property_doc,House / apartment,House / apartment,categorical,True,
+100077,gender_id_document,M,M,categorical,True,
+100077,ext_source_1_credit_report,0.28545454545454546,0.2867830789116058,numeric,True,0.28545454545454546
+100077,ext_source_2_credit_report,0.6472727272727272,0.6473478219828046,numeric,True,0.6472727272727272
+100077,ext_source_3_credit_report,0.5618181818181818,0.5620604831738043,numeric,True,0.5618181818181818
+100077,own_realty_property_doc,Y,Y,categorical,True,
+100077,housing_type_property_doc,House / apartment,House / apartment,categorical,True,
+100078,gender_id_document,F,F,categorical,True,
+100078,monthly_income_bank_statement,1188000.0,180000.0,numeric,False,14256000.0
+100078,ext_source_1_credit_report,0.7945,0.7961611232881004,numeric,True,0.7945
+100078,ext_source_2_credit_report,0.5164,0.5172704004425673,numeric,True,0.5164
+100078,ext_source_3_credit_report,0.4291,0.4294236843421945,numeric,True,0.4291
+100078,own_realty_property_doc,Y,Y,categorical,True,
+100078,housing_type_property_doc,House / apartment,House / apartment,categorical,True,
+100079,gender_id_document,M,M,categorical,True,
+100079,monthly_income_bank_statement,18750.0,225000.0,numeric,True,225000.0
+100079,ext_source_1_credit_report,0.2018,0.202477374074608,numeric,True,0.2018
+100079,ext_source_2_credit_report,0.5618,0.5619229565929612,numeric,True,0.5618
+100079,ext_source_3_credit_report,0.4127,0.4135967602644276,numeric,True,0.4127
+100079,own_realty_property_doc,Y,Y,categorical,True,
+100079,housing_type_property_doc,Municipal apartment,Municipal apartment,categorical,True,
+100080,gender_id_document,F,F,categorical,True,
+100080,ext_source_1_credit_report,0.4109,0.4115064104251909,numeric,True,0.4109
+100080,ext_source_2_credit_report,0.1236,0.1238882922844139,numeric,True,0.1236
+100080,ext_source_3_credit_report,0.8327,0.8327850252992314,numeric,True,0.8327
+100080,own_realty_property_doc,N,N,categorical,True,
+100080,own_car_property_doc,N,N,categorical,True,
+100080,housing_type_property_doc,House / Apartment,House / apartment,categorical,True,
+100081,gender_id_document,M,M,categorical,True,
+100081,monthly_income_bank_statement,15000,180000.0,numeric,True,180000.0
+100081,ext_source_2_credit_report,0.6436363636363637,0.6454384930609306,numeric,True,0.6436363636363637
+100081,own_realty_property_doc,Y,N,categorical,False,
+100081,own_car_property_doc,N/A,Y,categorical,False,
+100081,housing_type_property_doc,House / apartment,House / apartment,categorical,True,
+100082,gender_id_document,M,M,categorical,True,
+100082,ext_source_1_credit_report,0.3563636363636364,0.3577065472620613,numeric,True,0.3563636363636364
+100082,ext_source_2_credit_report,0.6854545454545454,0.6865047975453018,numeric,True,0.6854545454545454
+100082,ext_source_3_credit_report,0.3927272727272727,0.3944954053123993,numeric,True,0.3927272727272727
+100082,own_realty_property_doc,Y,N,categorical,False,
+100082,housing_type_property_doc,Apartment,House / apartment,categorical,False,
+100083,gender_id_document,M,M,categorical,True,
+100083,monthly_income_bank_statement,3619551.0,103500.0,numeric,False,43434612.0
+100083,ext_source_1_credit_report,0.2690909090909091,0.2707661633733818,numeric,True,0.2690909090909091
+100083,ext_source_2_credit_report,0.7054545454545454,0.7071263161734994,numeric,True,0.7054545454545454
+100083,ext_source_3_credit_report,0.5963636363636363,0.5971924268337128,numeric,True,0.5963636363636363
+100083,own_realty_property_doc,Y,Y,categorical,True,
+100083,housing_type_property_doc,House / apartment,House / apartment,categorical,True,
+100084,gender_id_document,M,M,categorical,True,
+100084,monthly_income_bank_statement,18750.0,225000.0,numeric,True,225000.0
+100084,ext_source_2_credit_report,0.5690909090909091,0.5705270507243844,numeric,True,0.5690909090909091
+100084,ext_source_3_credit_report,0.6927272727272727,0.6940926425266661,numeric,True,0.6927272727272727
+100084,own_realty_property_doc,Y,Y,categorical,True,
+100084,housing_type_property_doc,House / apartment,House / apartment,categorical,True,
+100085,gender_id_document,M,M,categorical,True,
+100085,monthly_income_bank_statement,13125,157500.0,numeric,True,157500.0
+100085,ext_source_2_credit_report,0.36727272727272725,0.3687189849837431,numeric,True,0.36727272727272725
+100085,ext_source_3_credit_report,0.35818181818181816,0.3589512285783967,numeric,True,0.35818181818181816
+100085,own_realty_property_doc,Y,Y,categorical,True,
+100085,own_car_property_doc,N,N,categorical,True,
+100085,housing_type_property_doc,House / Apartment (Residential),House / apartment,categorical,False,
+100086,gender_id_document,F,F,categorical,True,
+100086,ext_source_2_credit_report,0.5690909090909091,0.5698732368655826,numeric,True,0.5690909090909091
+100086,ext_source_3_credit_report,0.19818181818181818,0.1986200451074864,numeric,True,0.19818181818181818
+100086,own_realty_property_doc,Y,Y,categorical,True,
+100086,own_car_property_doc,N,N,categorical,True,
+100086,housing_type_property_doc,Apartment,House / apartment,categorical,False,
+100087,gender_id_document,F,F,categorical,True,
+100087,monthly_income_bank_statement,0,202500.0,numeric,False,0.0
+100087,ext_source_2_credit_report,0.5709090909090909,0.5720641471414096,numeric,True,0.5709090909090909
+100087,ext_source_3_credit_report,0.19090909090909092,0.191821602413606,numeric,True,0.19090909090909092
+100087,own_realty_property_doc,Y,Y,categorical,True,
+100087,own_car_property_doc,N,N,categorical,True,
+100087,housing_type_property_doc,House / apartment,House / apartment,categorical,True,
+100088,gender_id_document,F,F,categorical,True,
+100088,monthly_income_bank_statement,9375,112500.0,numeric,True,112500.0
+100088,ext_source_2_credit_report,0.5836,0.5851740300889305,numeric,True,0.5836
+100088,ext_source_3_credit_report,0.4073,0.4083588531230431,numeric,True,0.4073
+100089,gender_id_document,M,M,categorical,True,
+100089,monthly_income_bank_statement,11250.0,135000.0,numeric,True,135000.0
+100089,ext_source_2_credit_report,0.5490909090909091,0.5500579930157645,numeric,True,0.5490909090909091
+100089,ext_source_3_credit_report,0.5345454545454545,0.5352762504724826,numeric,True,0.5345454545454545
+100089,own_realty_property_doc,Y,Y,categorical,True,
+100089,own_car_property_doc,N,N,categorical,True,
+100089,housing_type_property_doc,House / apartment,House / apartment,categorical,True,
+100093,gender_id_document,F,F,categorical,True,
+100093,monthly_income_bank_statement,0,94500.0,numeric,False,0.0
+100093,ext_source_1_credit_report,0.5909090909090909,0.5927009939219194,numeric,True,0.5909090909090909
+100093,ext_source_2_credit_report,0.48727272727272725,0.4885999153777029,numeric,True,0.48727272727272725
+100093,own_realty_property_doc,Y,Y,categorical,True,
+100093,housing_type_property_doc,House / apartment,House / apartment,categorical,True,
+100094,gender_id_document,F,F,categorical,True,
+100094,monthly_income_bank_statement,9000,108000.0,numeric,True,108000.0
+100094,ext_source_2_credit_report,0.5818,0.5827354769124312,numeric,True,0.5818
+100094,ext_source_3_credit_report,0.4509,0.4525335592581747,numeric,True,0.4509
+100094,own_realty_property_doc,Y,Y,categorical,True,
+100094,own_car_property_doc,N,N,categorical,True,
+100094,housing_type_property_doc,House / apartment,House / apartment,categorical,True,
+100095,gender_id_document,F,F,categorical,True,
+100095,monthly_income_bank_statement,,67500.0,numeric,False,
+100095,ext_source_1_credit_report,0.58545,0.5866975916234531,numeric,True,0.58545
+100095,ext_source_2_credit_report,0.30364,0.3045061145430549,numeric,True,0.30364
+100095,own_realty_property_doc,Y,Y,categorical,True,
+100095,housing_type_property_doc,House / apartment,House / apartment,categorical,True,
+100096,gender_id_document,F,F,categorical,True,
+100096,monthly_income_bank_statement,"[26999, 6750.0]",81000.0,numeric,False,323988.0
+100096,ext_source_2_credit_report,0.023636363636363636,0.0239523667712844,numeric,True,0.023636363636363636
+100096,ext_source_3_credit_report,0.72,0.7209441499436497,numeric,True,0.72
+100096,own_realty_property_doc,Y,Y,categorical,True,
+100096,own_car_property_doc,Y,N,categorical,False,
+100096,housing_type_property_doc,House / Apartment,House / apartment,categorical,True,
+100097,gender_id_document,M,M,categorical,True,
+100097,ext_source_2_credit_report,0.3563636363636364,0.3573422337147276,numeric,True,0.3563636363636364
+100097,ext_source_3_credit_report,0.6436363636363637,0.6446794549585961,numeric,True,0.6436363636363637
+100097,own_realty_property_doc,Y,Y,categorical,True,
+100097,own_car_property_doc,Y,Y,categorical,True,
+100097,housing_type_property_doc,House / Apartment,House / apartment,categorical,True,
+100098,gender_id_document,M,M,categorical,True,
+100098,monthly_income_bank_statement,18750,225000.0,numeric,True,225000.0
+100098,ext_source_2_credit_report,0.59636,0.5970811533321667,numeric,True,0.59636
+100098,own_realty_property_doc,N,N,categorical,True,
+100098,own_car_property_doc,Y,Y,categorical,True,
+100098,housing_type_property_doc,Apartment (10 floors),House / apartment,categorical,False,
+100099,gender_id_document,F,F,categorical,True,
+100099,monthly_income_bank_statement,30000.0,360000.0,numeric,True,360000.0
+100099,ext_source_2_credit_report,0.66,0.6605789818593445,numeric,True,0.66
+100099,ext_source_3_credit_report,0.3418181818181818,0.3425288720742255,numeric,True,0.3418181818181818
+100099,own_realty_property_doc,Y,Y,categorical,True,
+100099,housing_type_property_doc,House / apartment,House / apartment,categorical,True,
+100100,gender_id_document,M,M,categorical,True,
+100100,monthly_income_bank_statement,16875.0,202500.0,numeric,True,202500.0
+100100,ext_source_1_credit_report,0.4473,0.4476751393608083,numeric,True,0.4473
+100100,ext_source_2_credit_report,0.4945,0.495765140717496,numeric,True,0.4945
+100100,ext_source_3_credit_report,0.8236,0.8245949709919925,numeric,True,0.8236
+100100,own_realty_property_doc,Y,Y,categorical,True,
+100100,housing_type_property_doc,House / apartment,House / apartment,categorical,True,
+100101,gender_id_document,F,F,categorical,True,
+100101,ext_source_2_credit_report,0.7145454545454546,0.7162122102538987,numeric,True,0.7145454545454546
+100101,own_realty_property_doc,Y,Y,categorical,True,
+100101,housing_type_property_doc,House / apartment,House / apartment,categorical,True,
+100102,gender_id_document,F,F,categorical,True,
+100102,ext_source_1_credit_report,0.414545,0.4147940693543055,numeric,True,0.414545
+100102,ext_source_2_credit_report,0.66,0.6611083077510267,numeric,True,0.66
+100102,ext_source_3_credit_report,0.476364,0.4776491548517548,numeric,True,0.476364
+100102,own_realty_property_doc,Y,N,categorical,False,
+100102,housing_type_property_doc,House / apartment,House / apartment,categorical,True,
+100103,gender_id_document,F,F,categorical,True,
+100103,ext_source_2_credit_report,0.7163636363636363,0.7180575365896832,numeric,True,0.7163636363636363
+100103,ext_source_3_credit_report,0.5109090909090909,0.511891801533151,numeric,True,0.5109090909090909
+100103,own_realty_property_doc,Y,Y,categorical,True,
+100103,own_car_property_doc,Y,N,categorical,False,
+100103,housing_type_property_doc,house,House / apartment,categorical,False,
+100104,gender_id_document,F,F,categorical,True,
+100104,ext_source_1_credit_report,0.7618,0.7631370618175837,numeric,True,0.7618
+100104,ext_source_2_credit_report,0.6436,0.6446273721560554,numeric,True,0.6436
+100104,own_realty_property_doc,Y,Y,categorical,True,
+100104,own_car_property_doc,N,N,categorical,True,
+100104,housing_type_property_doc,Apartment,House / apartment,categorical,False,
+100105,gender_id_document,F,F,categorical,True,
+100105,monthly_income_bank_statement,16125.0,193500.0,numeric,True,193500.0
+100105,ext_source_1_credit_report,0.7636,0.765153942091246,numeric,True,0.7636
+100105,ext_source_2_credit_report,0.2545,0.2547599571469118,numeric,True,0.2545
+100105,ext_source_3_credit_report,0.4109,0.4118485559242397,numeric,True,0.4109
+100105,own_realty_property_doc,Y,Y,categorical,True,
+100105,own_car_property_doc,N,N,categorical,True,
+100105,housing_type_property_doc,House / apartment,House / apartment,categorical,True,
+100108,gender_id_document,F,F,categorical,True,
+100108,monthly_income_bank_statement,691411.5,171000.0,numeric,False,8296938.0
+100108,ext_source_2_credit_report,0.7563636363636363,0.7566679797246073,numeric,True,0.7563636363636363
+100108,ext_source_3_credit_report,0.64,0.6413682574954046,numeric,True,0.64
+100108,own_realty_property_doc,Y,Y,categorical,True,
+100108,own_car_property_doc,N,N,categorical,True,
+100108,housing_type_property_doc,House / apartment,House / apartment,categorical,True,
+100110,gender_id_document,M,M,categorical,True,
+100110,monthly_income_bank_statement,11250,135000.0,numeric,True,135000.0
+100110,ext_source_2_credit_report,0.64,0.6405493008893001,numeric,True,0.64
+100110,ext_source_3_credit_report,0.3273,0.3280631605201915,numeric,True,0.3273
+100110,own_realty_property_doc,Y,Y,categorical,True,
+100110,housing_type_property_doc,house / apartment,House / apartment,categorical,True,
+100111,gender_id_document,F,F,categorical,True,
+100111,monthly_income_bank_statement,11277.81,112500.0,numeric,False,135333.72
+100111,ext_source_1_credit_report,0.5618,0.5633231337420023,numeric,True,0.5618
+100111,ext_source_2_credit_report,0.6073,0.608604105963283,numeric,True,0.6073
+100111,ext_source_3_credit_report,0.2273,0.228883416700673,numeric,True,0.2273
+100111,housing_type_property_doc,With parents,With parents,categorical,True,
+100112,gender_id_document,M,M,categorical,True,
+100112,monthly_income_bank_statement,26250,315000.0,numeric,True,315000.0
+100112,ext_source_2_credit_report,0.4309090909090909,0.4323402118056743,numeric,True,0.4309090909090909
+100112,ext_source_3_credit_report,0.07636363636363637,0.0774985464900651,numeric,True,0.07636363636363637
+100112,own_realty_property_doc,Y,Y,categorical,True,
+100112,own_car_property_doc,Y,Y,categorical,True,
+100112,housing_type_property_doc,With parents,With parents,categorical,True,
+100113,gender_id_document,M,M,categorical,True,
+100113,monthly_income_bank_statement,6375.0,76500.0,numeric,True,76500.0
+100113,ext_source_1_credit_report,0.4745,0.4757617930038634,numeric,True,0.4745
+100113,ext_source_2_credit_report,0.5927,0.5930185238421518,numeric,True,0.5927
+100113,ext_source_3_credit_report,0.7891,0.7898803468924867,numeric,True,0.7891
+100113,own_realty_property_doc,N,N,categorical,True,
+100113,own_car_property_doc,Y,Y,categorical,True,
+100113,housing_type_property_doc,House / apartment,House / apartment,categorical,True,
+100114,gender_id_document,F,F,categorical,True,
+100114,monthly_income_bank_statement,11250,135000.0,numeric,True,135000.0
+100114,ext_source_1_credit_report,0.394545,0.3957242668511344,numeric,True,0.394545
+100114,ext_source_2_credit_report,0.154545,0.1549370735653434,numeric,True,0.154545
+100114,ext_source_3_credit_report,0.263636,0.2650494299443805,numeric,True,0.263636
+100114,own_realty_property_doc,Y,Y,categorical,True,
+100114,own_car_property_doc,N,N,categorical,True,
+100114,housing_type_property_doc,House / apartment,House / apartment,categorical,True,
+100115,gender_id_document,FEMALE,F,categorical,False,
+100115,monthly_income_bank_statement,9037.67,90000.0,numeric,False,108452.04000000001
+100115,ext_source_2_credit_report,0.33,0.3343001962973505,numeric,True,0.33
+100115,own_realty_property_doc,Y,N,categorical,False,
+100115,own_car_property_doc,N,N,categorical,True,
+100115,housing_type_property_doc,House / Apartment,House / apartment,categorical,True,
+100116,gender_id_document,F,F,categorical,True,
+100116,ext_source_1_credit_report,0.6709,0.6712718925800566,numeric,True,0.6709
+100116,ext_source_2_credit_report,0.7,0.7002735745029195,numeric,True,0.7
+100116,ext_source_3_credit_report,0.0709,0.0710551246687366,numeric,True,0.0709
+100116,own_realty_property_doc,Y,Y,categorical,True,
+100116,own_car_property_doc,N,N,categorical,True,
+100116,housing_type_property_doc,House / apartment,House / apartment,categorical,True,
+100118,gender_id_document,F,F,categorical,True,
+100118,monthly_income_bank_statement,7500,90000.0,numeric,True,90000.0
+100118,ext_source_2_credit_report,0.62545,0.6263029188866104,numeric,True,0.62545
+100118,own_realty_property_doc,Y,Y,categorical,True,
+100118,own_car_property_doc,Y,N,categorical,False,
+100118,housing_type_property_doc,House / apartment,House / apartment,categorical,True,
+100119,gender_id_document,F,F,categorical,True,
+100119,monthly_income_bank_statement,4500.0,54000.0,numeric,True,54000.0
+100119,ext_source_2_credit_report,0.5,0.5002642944981995,numeric,True,0.5
+100119,ext_source_3_credit_report,0.07636363636363637,0.0774985464900651,numeric,True,0.07636363636363637
+100119,own_realty_property_doc,Y,Y,categorical,True,
+100119,housing_type_property_doc,House / apartment,House / apartment,categorical,True,
+100120,gender_id_document,F,F,categorical,True,
+100120,ext_source_1_credit_report,0.2527,0.2543516601822173,numeric,True,0.2527
+100120,ext_source_2_credit_report,0.1691,0.1699529509371729,numeric,True,0.1691
+100120,ext_source_3_credit_report,0.12,0.1214082861631216,numeric,True,0.12
+100120,own_realty_property_doc,N,N,categorical,True,
+100120,own_car_property_doc,N,N,categorical,True,
+100120,housing_type_property_doc,House / apartment,House / apartment,categorical,True,
+100121,gender_id_document,M,M,categorical,True,
+100121,monthly_income_bank_statement,11500.0,126000.0,numeric,True,138000.0
+100121,ext_source_2_credit_report,0.5854545454545454,0.5861504130199274,numeric,True,0.5854545454545454
+100121,ext_source_3_credit_report,0.58,0.5814837058057234,numeric,True,0.58
+100121,own_realty_property_doc,Y,Y,categorical,True,
+100121,housing_type_property_doc,With parents,With parents,categorical,True,
+100122,gender_id_document,F,F,categorical,True,
+100122,monthly_income_bank_statement,6375.0,76500.0,numeric,True,76500.0
+100122,ext_source_1_credit_report,0.40545454545454546,0.4055643396822132,numeric,True,0.40545454545454546
+100122,ext_source_2_credit_report,0.04727272727272727,0.0472914244045298,numeric,True,0.04727272727272727
+100122,ext_source_3_credit_report,0.40545454545454546,0.4066174366275036,numeric,True,0.40545454545454546
+100122,own_realty_property_doc,N,N,categorical,True,
+100122,own_car_property_doc,N,N,categorical,True,
+100122,housing_type_property_doc,With parents,With parents,categorical,True,
+100123,gender_id_document,F,F,categorical,True,
+100123,monthly_income_bank_statement,8625,103500.0,numeric,True,103500.0
+100123,own_realty_property_doc,N,N,categorical,True,
+100123,own_car_property_doc,N,N,categorical,True,
+100123,housing_type_property_doc,House,House / apartment,categorical,False,
+100124,gender_id_document,M,M,categorical,True,
+100125,gender_id_document,F,F,categorical,True,
+100125,monthly_income_bank_statement,10500,126000.0,numeric,True,126000.0
+100125,ext_source_2_credit_report,0.5709090909090909,0.5713305828391398,numeric,True,0.5709090909090909
+100125,ext_source_3_credit_report,0.5545454545454546,0.5549467685334323,numeric,True,0.5545454545454546
+100125,own_realty_property_doc,Y,N,categorical,False,
+100125,housing_type_property_doc,House / apartment,House / apartment,categorical,True,
+100126,gender_id_document,male,M,categorical,False,
+100126,ext_source_2_credit_report,0.7036,0.7050933282515942,numeric,True,0.7036
+100126,ext_source_3_credit_report,0.5727,0.5744466170995097,numeric,True,0.5727
+100126,own_realty_property_doc,Y,Y,categorical,True,
+100126,housing_type_property_doc,House / apartment,House / apartment,categorical,True,
+100127,gender_id_document,M,M,categorical,True,
+100127,monthly_income_bank_statement,9375.0,112500.0,numeric,True,112500.0
+100127,ext_source_2_credit_report,0.6854545454545454,0.6870034445422084,numeric,True,0.6854545454545454
+100127,own_realty_property_doc,Y,Y,categorical,True,
+100127,housing_type_property_doc,House / apartment,House / apartment,categorical,True,
+100129,gender_id_document,F,F,categorical,True,
+100129,monthly_income_bank_statement,10348875,85500.0,numeric,False,124186500.0
+100129,ext_source_1_credit_report,0.478,0.4795441447548665,numeric,True,0.478
+100129,ext_source_2_credit_report,0.609,0.6102072901939566,numeric,True,0.609
+100129,own_realty_property_doc,Y,Y,categorical,True,
+100129,own_car_property_doc,Y,Y,categorical,True,
+100129,housing_type_property_doc,House / Apartment,House / apartment,categorical,True,
