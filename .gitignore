@@ -39,8 +39,9 @@ Thumbs.db
 
 # Logs
 *.log
-unstructured_data/generation_log.jsonl
-unstructured_data/extraction_results.jsonl
+
+# Unstructured data (images, PDFs, documents - too large for git)
+unstructured_data/
 
 # Large datasets (keep CSVs in datasets/ out of git)
 datasets/*.csv

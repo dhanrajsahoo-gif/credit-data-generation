@@ -1,0 +1,62 @@
+{
+  "paystub": [
+    "AMT_INCOME_TOTAL",
+    "DAYS_EMPLOYED",
+    "NAME_INCOME_TYPE",
+    "OCCUPATION_TYPE",
+    "ORGANIZATION_TYPE",
+    "CNT_FAM_MEMBERS",
+    "FLAG_EMP_PHONE"
+  ],
+  "linkedin": [
+    "NAME_INCOME_TYPE",
+    "OCCUPATION_TYPE",
+    "ORGANIZATION_TYPE",
+    "DAYS_EMPLOYED",
+    "AMT_INCOME_TOTAL",
+    "NAME_EDUCATION_TYPE",
+    "DAYS_BIRTH"
+  ],
+  "bank_statement": [
+    "AMT_INCOME_TOTAL",
+    "AMT_ANNUITY",
+    "AMT_CREDIT"
+  ],
+  "id_document": [
+    "CODE_GENDER",
+    "DAYS_BIRTH",
+    "NAME_FAMILY_STATUS",
+    "CNT_CHILDREN",
+    "CNT_FAM_MEMBERS",
+    "DAYS_ID_PUBLISH",
+    "FLAG_DOCUMENT_3",
+    "FLAG_DOCUMENT_6",
+    "FLAG_DOCUMENT_8"
+  ],
+  "property_doc": [
+    "NAME_HOUSING_TYPE",
+    "FLAG_OWN_REALTY",
+    "FLAG_OWN_CAR",
+    "OWN_CAR_AGE",
+    "REGION_RATING_CLIENT",
+    "REGION_RATING_CLIENT_W_CITY",
+    "REG_CITY_NOT_LIVE_CITY",
+    "REG_CITY_NOT_WORK_CITY",
+    "LIVE_CITY_NOT_WORK_CITY",
+    "APARTMENTS_AVG",
+    "LIVINGAREA_AVG",
+    "FLOORSMAX_AVG",
+    "TOTALAREA_MODE"
+  ],
+  "credit_report": [
+    "EXT_SOURCE_1",
+    "EXT_SOURCE_2",
+    "EXT_SOURCE_3",
+    "AMT_REQ_CREDIT_BUREAU_HOUR",
+    "AMT_REQ_CREDIT_BUREAU_DAY",
+    "AMT_REQ_CREDIT_BUREAU_WEEK",
+    "AMT_REQ_CREDIT_BUREAU_MON",
+    "AMT_REQ_CREDIT_BUREAU_QRT",
+    "AMT_REQ_CREDIT_BUREAU_YEAR"
+  ]
+}
